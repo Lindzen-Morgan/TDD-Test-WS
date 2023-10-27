@@ -1,0 +1,15 @@
+C:\Users\morga\OneDrive\Skrivbord\TDD-Workshop\WordLib\bin\Debug\net6.0\WordLib.deps.json
+C:\Users\morga\OneDrive\Skrivbord\TDD-Workshop\WordLib\bin\Debug\net6.0\WordLib.dll
+C:\Users\morga\OneDrive\Skrivbord\TDD-Workshop\WordLib\bin\Debug\net6.0\WordLib.pdb
+C:\Users\morga\OneDrive\Skrivbord\TDD-Workshop\WordLib\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\morga\OneDrive\Skrivbord\TDD-Workshop\WordLib\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\morga\OneDrive\Skrivbord\TDD-Workshop\WordLib\obj\Debug\net6.0\WordLib.csproj.AssemblyReference.cache
+C:\Users\morga\OneDrive\Skrivbord\TDD-Workshop\WordLib\obj\Debug\net6.0\WordLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morga\OneDrive\Skrivbord\TDD-Workshop\WordLib\obj\Debug\net6.0\WordLib.AssemblyInfoInputs.cache
+C:\Users\morga\OneDrive\Skrivbord\TDD-Workshop\WordLib\obj\Debug\net6.0\WordLib.AssemblyInfo.cs
+C:\Users\morga\OneDrive\Skrivbord\TDD-Workshop\WordLib\obj\Debug\net6.0\WordLib.csproj.CoreCompileInputs.cache
+C:\Users\morga\OneDrive\Skrivbord\TDD-Workshop\WordLib\obj\Debug\net6.0\WordLib.csproj.CopyComplete
+C:\Users\morga\OneDrive\Skrivbord\TDD-Workshop\WordLib\obj\Debug\net6.0\WordLib.dll
+C:\Users\morga\OneDrive\Skrivbord\TDD-Workshop\WordLib\obj\Debug\net6.0\refint\WordLib.dll
+C:\Users\morga\OneDrive\Skrivbord\TDD-Workshop\WordLib\obj\Debug\net6.0\WordLib.pdb
+C:\Users\morga\OneDrive\Skrivbord\TDD-Workshop\WordLib\obj\Debug\net6.0\ref\WordLib.dll

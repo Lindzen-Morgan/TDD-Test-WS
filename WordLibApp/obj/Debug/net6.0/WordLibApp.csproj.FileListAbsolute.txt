@@ -1,0 +1,14 @@
+C:\Users\morga\OneDrive\Skrivbord\TDD-Workshop\WordLibApp\bin\Debug\net6.0\WordLibApp.exe
+C:\Users\morga\OneDrive\Skrivbord\TDD-Workshop\WordLibApp\bin\Debug\net6.0\WordLibApp.deps.json
+C:\Users\morga\OneDrive\Skrivbord\TDD-Workshop\WordLibApp\bin\Debug\net6.0\WordLibApp.runtimeconfig.json
+C:\Users\morga\OneDrive\Skrivbord\TDD-Workshop\WordLibApp\bin\Debug\net6.0\WordLibApp.dll
+C:\Users\morga\OneDrive\Skrivbord\TDD-Workshop\WordLibApp\bin\Debug\net6.0\WordLibApp.pdb
+C:\Users\morga\OneDrive\Skrivbord\TDD-Workshop\WordLibApp\obj\Debug\net6.0\WordLibApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morga\OneDrive\Skrivbord\TDD-Workshop\WordLibApp\obj\Debug\net6.0\WordLibApp.AssemblyInfoInputs.cache
+C:\Users\morga\OneDrive\Skrivbord\TDD-Workshop\WordLibApp\obj\Debug\net6.0\WordLibApp.AssemblyInfo.cs
+C:\Users\morga\OneDrive\Skrivbord\TDD-Workshop\WordLibApp\obj\Debug\net6.0\WordLibApp.csproj.CoreCompileInputs.cache
+C:\Users\morga\OneDrive\Skrivbord\TDD-Workshop\WordLibApp\obj\Debug\net6.0\WordLibApp.dll
+C:\Users\morga\OneDrive\Skrivbord\TDD-Workshop\WordLibApp\obj\Debug\net6.0\refint\WordLibApp.dll
+C:\Users\morga\OneDrive\Skrivbord\TDD-Workshop\WordLibApp\obj\Debug\net6.0\WordLibApp.pdb
+C:\Users\morga\OneDrive\Skrivbord\TDD-Workshop\WordLibApp\obj\Debug\net6.0\WordLibApp.genruntimeconfig.cache
+C:\Users\morga\OneDrive\Skrivbord\TDD-Workshop\WordLibApp\obj\Debug\net6.0\ref\WordLibApp.dll

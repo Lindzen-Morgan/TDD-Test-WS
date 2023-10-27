@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RcH5FUPuCyfaJ2pBOahDNf8G/YUZK6FB3IGXfNSkuiLe6m/vsV8fbO0/XjEKgYKrrCtmz190nw3RZMJKWOn9tQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\morga\\OneDrive\\Skrivbord\\TDD-Workshop\\WordLib\\WordLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\morga\\.nuget\\packages\\mstest.testframework\\3.1.1\\mstest.testframework.3.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
